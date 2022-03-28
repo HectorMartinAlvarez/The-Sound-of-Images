@@ -2,7 +2,6 @@ import processing.sound.*;
 import java.util.*;
 import processing.awt.PSurfaceAWT;
 import javax.swing.JFrame;
-import java.awt.event.*;
 
 SinOsc osc;
 Env env;

@@ -1,6 +1,5 @@
 public class End extends javax.swing.JDialog {
 
-
     public End(java.awt.Frame parent, boolean modal) {
         super(parent, modal);
         initComponents();
@@ -17,7 +16,7 @@ public class End extends javax.swing.JDialog {
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setResizable(false);
         setTitle("End");
-
+        fill(0);
         jButton1.setText("Restart song");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -61,8 +60,6 @@ public class End extends javax.swing.JDialog {
                     .addComponent(jButton2))
                 .addGap(42, 42, 42))
         );
-
-        jLabel1.setVisible(false);
 
         pack();
     }                      
