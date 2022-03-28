@@ -33,3 +33,5 @@ El proyecto ha sido desarrollado empleando 3 ficheros:
 ## Referencias
   - [Material de la asignatura Creando Interfaces de Usuario](https://github.com/otsedom/otsedom.github.io)
   - [Documentación de Processing](https://processing.org/reference)
+
+![No Gif :(](https://github.com/HectorMartinAlvarez/The-Sound-of-Images/blob/main/animation.gif)
